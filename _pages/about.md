@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD candidate at the [HKUST NLP Group](https://hkust-nlp.github.io/), advised by [Professor Junxian He](https://jxhe.github.io/). My research focuses on natural language processing and machine learning, with particular interests in **LLM reasoning and reinforcement learning**, **LLM truthfulness and interpretability**, and **hallucination in vision-language models (VLMs)**.
+I am a first-year PhD candidate at the HKUST NLP Group, advised by Professor Junxian He. My research focuses on natural language processing and machine learning, with particular interests in LLM Reasoning and Reinforcement Learning, Hallucination in Vision-Language Models (VLM), and LLM truthfulness and Interpretability.
 
-Before starting my PhD, I received my B.Eng. from Shanghai Jiao Tong University in June 2024. During my undergraduate studies, I was also advised by Professor Junxian He. I was awarded the Zhiyuan Honor Scholarship at Shanghai Jiao Tong University.
+Before starting my PhD, I graduated from Shanghai Jiao Tong University (SJTU) in June 2024. I received the Zhiyuan Honor Scholarship at Shanghai Jiao Tong University.
 
 ## Research Experience
 
@@ -21,20 +21,22 @@ Before starting my PhD, I received my B.Eng. from Shanghai Jiao Tong University 
 
 ## Publications
 
-- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, Arxiv)
+- **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025)
   - First author
   - Co-authors: Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He
-  - [GitHub](https://github.com/Vicent0205/SynLogic)
+  - Published on Arxiv
+  - Has GitHub code repository
 
-- **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, Arxiv)
+- **On the Perception Bottleneck of VLMs for Chart Understanding** (2025)
   - First author
   - Co-authors: Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He
-  - [GitHub](https://github.com/Vicent0205/Vision4Chart)
+  - Published on Arxiv
+  - Has GitHub code repository: Vision4Chart
 
 - **On the Universal Truthfulness Hyperplane Inside LLMs** (EMNLP 2024)
   - First author
   - Co-authors: Shiqi Chen, Yu Cheng, Junxian He
-  - [GitHub](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
+  - Has GitHub code repository: Universal_Truthfulness_Hyperplane
 
 - **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (ICML 2024)
   - Authors: Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He
